@@ -1,0 +1,14 @@
+{
+    "name": "rem2px",
+    "version": "1.0.0",
+    "description": "rem2px",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "license": "MIT",
+    "author": "https://github.com/jazzg62",
+    "devDependencies": {
+        "jest": "^29.2.2"
+    }
+}
