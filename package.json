@@ -1,6 +1,6 @@
 {
     "name": "rem2px",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "rem2px",
     "main": "index.js",
     "scripts": {
