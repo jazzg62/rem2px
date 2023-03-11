@@ -5,7 +5,7 @@
     // 1. install
     // npm install rem2px
     // 2. import and run rem2px
-    import {rem2px} from rem2px;
+    const const rem2px = require('rem2px').rem2px;
     let text = `input[type="checkbox"] {
         position: relative;
         width: 0.75rem;
